@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FizzBuzz</string>
+    <string name="instructions">Numbers divisible by 3: \'fizz\', numbers divisible by 5: \'buzz\'.\n\'fizzbuzz\' stands for numbers divisible by both 3 and 5.</string>
+    <string name="hint_input">Type an integer here…</string>
+    <string name="show_result">Show result</string>
+    <string name="invalid_text">Error. Please enter an integer value.</string>
+</resources>
